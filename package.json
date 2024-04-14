@@ -1,6 +1,6 @@
 {
   "name": "mu099_simple-calculator-copy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Calculator Copy Made with Typescript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
